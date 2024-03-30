@@ -1,6 +1,8 @@
 #Variaveis
 h = float(input("Insira sua altura: "))
 Gen= int(input("insira seu gênero sendo 0 para homem e 1 para mulher"))
+
+#fórmulas
 CalcH = int((72.7*h) - 58)
 CalcM = int((62.1*h) - 44.7)
 
